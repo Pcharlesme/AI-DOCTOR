@@ -1,2 +1,2 @@
 # AI-DOCTOR
- Medication website used to diagnose patients
+ Medication Mobile App used to diagnose patients
